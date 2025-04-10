@@ -1,4 +1,4 @@
-# Python2-Project-Casino
+# Casino-python project
 Simple Casino Game in Python   
 Documentation was made using sphinx - html
 
